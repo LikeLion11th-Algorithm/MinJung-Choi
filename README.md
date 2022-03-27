@@ -15,3 +15,6 @@
 ### 1004번 어린왕자 <br>
 #### :link: https://acho.tistory.com/9
 ------------
+### 2525번 오븐시계 <br>
+#### :link: https://acho.tistory.com/10
+------------
