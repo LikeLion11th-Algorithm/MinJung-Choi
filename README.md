@@ -18,3 +18,12 @@
 ### 2525번 오븐시계 <br>
 #### :link: https://acho.tistory.com/10
 ------------
+### 2480번 주사위 세 개 <br>
+#### :link: https://acho.tistory.com/11
+------------
+### 10818번 최소, 최대 <br>
+#### :link: https://acho.tistory.com/12
+------------
+### 2562번 최댓값(선형 검색 알고리즘) <br>
+#### :link: https://acho.tistory.com/13
+------------
