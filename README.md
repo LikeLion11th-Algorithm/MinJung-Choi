@@ -27,3 +27,6 @@
 ### 2562번 최댓값(선형 검색 알고리즘) <br>
 #### :link: https://acho.tistory.com/13
 ------------
+### 2075번 N번째 큰 수 <br>
+#### :link: https://acho.tistory.com/14
+------------
