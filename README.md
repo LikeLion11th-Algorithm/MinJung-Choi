@@ -30,3 +30,6 @@
 ### 2075번 N번째 큰 수 <br>
 #### :link: https://acho.tistory.com/14
 ------------
+### 4344번 평균은 넘겠지 <br>
+#### :link: https://acho.tistory.com/15
+------------
