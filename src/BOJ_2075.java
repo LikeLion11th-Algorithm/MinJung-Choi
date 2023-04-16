@@ -6,7 +6,7 @@ public class BOJ_2075 {
 	
 	static int sort(int[][] arr, int N) {
 		int[] newArr = new int[N * N];
-		int temp = 0;
+		int tmp = 0;
 		int k = 0;
 		//2차원 배열을 1차원 배열로 전환
 		for(int i = 0; i <= arr.length-1; i++)
@@ -18,9 +18,9 @@ public class BOJ_2075 {
 		for(int i = 0; i < k-2; i++) {
 			for(int j = i+1; j < k; j++) {
 				if(newArr[i] < newArr[j]) {
-					temp = newArr[i];
+					tmp = newArr[i];
 					newArr[i] = newArr[j];
-					newArr[j] = temp;
+					newArr[j] = tmp;
 				} 
 			}
 		}
